@@ -1,0 +1,2 @@
+更新SQL里的逻辑值为相反值
+Update table set column = column^1;
